@@ -1,0 +1,115 @@
+.buttons {
+   text-align: center;
+   justify-content: center;
+}
+
+.wrapper {
+   width: 1200px;
+   margin: 0 auto;
+}
+
+.keyboard {
+   text-align: center;
+}
+
+.display {
+   margin-bottom: 10px;
+   outline: none;
+}
+
+.display input[type=text] {
+   height: 150px;
+   width: 1195px;
+   background: #e2ffef;
+   overflow: auto;
+   border-radius: 10px;
+   outline: none;
+   border: 1px solid #41c53f;
+   color: #2f4542;
+   font-size: 18px;
+}
+
+.display {
+   height: 150px;
+   width: 1180px;
+   background: #e2ffef;
+   /*color: #fff;*/
+outline: none;
+   overflow: auto;
+   border-radius: 10px;
+   border: 1px solid #41c53f;
+   color: #2f4542;
+   font-size: 18px;
+   padding: 10px;
+}
+
+.buttons {
+   outline: none;
+}
+
+.buttons button {
+   margin: 5px 2px;
+   background: #fff;
+   font-size: 18px;
+   font-weight: bold;
+   color: #000;
+   border: 1px solid #9c9c9c;
+   border-radius: 5px;
+}
+
+.buttons button:active {
+   border: 1px solid #141212;
+   background: #14a238;
+}
+
+.buttons {
+   background: #e3e5e8;
+   padding: 15px;
+   border-radius: 10px;
+}
+
+.key {
+   height: 45px;
+   width: 68px;
+   vertical-align: top;
+}
+
+.space {
+   height: 45px;
+   width: 480px;
+}
+
+.capslock {
+   height: 45px;
+   width: 155px;
+}
+
+.backspace {
+   height: 45px;
+   width: 150px
+}
+
+.tab {
+   height: 45px;
+   width: 75px;
+}
+
+.shift__l {
+   height: 45px;
+   width: 155px;
+}
+
+.shift__r {
+   height: 45px;
+   width: 68px;
+}
+
+button.enter {
+   height: 45px;
+   width: 145px;
+}
+
+.ctrl {
+   height: 45px;
+   width: 100px;
+}
